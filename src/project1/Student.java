@@ -6,8 +6,8 @@
 package project1;
 
 /**
- *
- * @author User
+ * Date: Jan 25th 2022
+ * @author Amr Abdelwahed
  */
 public class Student {
     private String _studentId;
