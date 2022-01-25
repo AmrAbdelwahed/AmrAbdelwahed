@@ -12,7 +12,7 @@ package project1;
 public class StudentList {
     public static void main (String[] args){
     
-        Student[] studentList = new Student[5];
+        Student[] studentList = new Student[3];
         studentList[0] = new Student("s1", "Amr Abdelwahed");
         studentList[1] = new Student("s2", "Jacob Hou");
         studentList[2] = new Student("s3", "A7a 7amra");

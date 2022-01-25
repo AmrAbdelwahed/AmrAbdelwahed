@@ -12,6 +12,7 @@ package project1;
 public class Student {
     private String _studentId;
     private String _studentName;
+    private String _address;
     
     public Student(String studentId, String studentName){
         _studentId = studentId;
@@ -30,4 +31,12 @@ public class Student {
     public void setStudentId(String sId){
         _studentId = sId;
     }
+    
+    public String getAddress(){
+        return _address;
+    }
+    public void setAddress(String address){
+        _address = address;
+    }
+    
 }
