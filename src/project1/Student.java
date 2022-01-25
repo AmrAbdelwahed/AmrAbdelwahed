@@ -8,6 +8,7 @@ package project1;
 /**
  * Date: Jan 25th 2022
  * @author Amr Abdelwahed
+ * Comment: This is just a comment
  */
 public class Student {
     private String _studentId;
