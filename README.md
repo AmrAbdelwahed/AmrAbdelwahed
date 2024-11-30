@@ -31,3 +31,8 @@
 <h2 align="center">Contributions</h2>
 
 ![snake gif](https://github.com/AmrAbdelwahed/AmrAbdelwahed/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- [![GitHub Skyline](https://img.shields.io/badge/GitHub-Skyline-blue?style=flat&logo=github)](https://skyline.github.com/AmrAbdelwahed) -->
+
+## 💡 Fun Facts and Inspirational Quotes
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=F7B73F&lines=Debugging+is+like+being+a+detective!;Data+drives+the+future!;Keep+learning,+keep+growing!)
