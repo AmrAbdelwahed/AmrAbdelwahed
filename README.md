@@ -2,17 +2,17 @@
 
 <p align="center">Front-End</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,angular,next,bootstrap,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,angular,next,bootstrap,tailwind,swift" />
 </p>
 
 <p align="center">Back-End</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,cs,c,cpp,dotnet,spring,py,flask,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,cs,c,cpp,dotnet,spring,py,php,flask,django" />
 </p>
 
 <p align="center">Tools / Technologies</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,mongodb,mysql,sqlite,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,tensorflow,postman,mongodb,mysql,sqlite,postgres,firebase,aws,gcp" />
 </p>
 
 <h2 align="center">Socials</h5>
