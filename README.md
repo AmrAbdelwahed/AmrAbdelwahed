@@ -36,3 +36,6 @@
 
 ## 💡 Fun Facts and Inspirational Quotes
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=F7B73F&lines=Debugging+is+like+being+a+detective!;Data+drives+the+future!;Keep+learning,+keep+growing!)
+
+## 🌟 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrAbdelwahed&show_icons=true&theme=radical)
