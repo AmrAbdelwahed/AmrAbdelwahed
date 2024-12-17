@@ -33,7 +33,7 @@
 ![snake gif](https://github.com/AmrAbdelwahed/AmrAbdelwahed/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏙️ GitHub Skyline
-![GitHub Skyline](https://github.com/AmrAbdelwahed/skyline-repo/blob/main/skyline-preview.png)
+![GitHub Skyline](https://github.com/AmrAbdelwahed/AmrAbdelwahed/blob/101707b7d7217d9d2dc5f2f0e12292ba4ee86014/model.png)
 
 
 ## 💡 Fun Facts and Inspirational Quotes
