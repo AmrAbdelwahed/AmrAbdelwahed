@@ -23,9 +23,6 @@
     <a href="https://www.linkedin.com/in/amrabdelwahed/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://www.instagram.com/walibia7a/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
 </p>
 
 <h2 align="center">Contributions</h2>
